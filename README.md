@@ -1,4 +1,4 @@
-# Simple Rate Limit
+# simple-ratelimiter
 
 ### Introduction
 The project is used to implement simple rate-limit feature.
