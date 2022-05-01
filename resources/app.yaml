@@ -1,0 +1,7 @@
+port: 8080
+redis:
+    url: localhost:6379
+logs:
+  threshold: info
+limits:
+  request: 60
